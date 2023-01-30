@@ -1,7 +1,7 @@
 # loading-page-php
 Página de carregamento do servidor do Garry's Mod TTT
 
-# Primeiro de tudo, vale ressaltar que esta página está sendo descontinuada a partir da data de seu publicamento neste repositório. 
+# Primeiro de tudo, vale ressaltar que esta página está sendo descontinuada a partir da data de sua publicação neste repositório. 
 Ou seja, não serão enviadas correções ou adições a ela. Caso desejar agregar ou corrigir algo, faça você mesmo. Seja em um fork e mantendo uma versão própria sua, ou enviando um PR, que será muito bem-vindo. Porém, não nos cobre em relação a criarmos algo específico, pois já estamos trabalhando em uma nova versão, feita do zero, utilizando outras tecnologias back end e front end, já que esta última é o maior defeito desta versão.
 
 # Esta página de carregamento possui alguns requisitos:
