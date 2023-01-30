@@ -1,10 +1,10 @@
 {
     "0": {
-    "api_key": ""
+        "api_key": "ABCDEFGHIJKLMNOP1234567890123456"
     },
     "query_config": {
-    "server_address": "",
-    "server_port": 
+        "server_address": "123.456.789.123",
+        "server_port": 27015
     },
     "users": {
         "staff": {
