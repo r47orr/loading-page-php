@@ -1,0 +1,52 @@
+{
+    "0": {
+    "api_key": ""
+    },
+    "query_config": {
+    "server_address": "",
+    "server_port": 
+    },
+    "users": {
+        "staff": {
+            "title": "Administradores-Chefes:",
+            "items": [
+                "76561198081444514",
+                "76561198846883714",
+                "76561198040981779",
+                "76561198101857216",
+                "76561198129303793",
+                "76561198217385521",
+                "76561199055523165",
+                "76561198380027880",
+                "76561198064936421",
+                "76561198120269778"
+            ]
+        },
+        "highlights": {
+            "title": "Destaques da temporada:",    
+            "items": [
+                "76561198217385521",
+                "76561199055523165",
+                "76561198129303793"
+            ]
+        }
+    },
+    "rules": {
+        "title": "Principais regras do servidor:",
+        "items": [
+        "Respeite todos os jogadores e Staff.",
+        "Não pratique qualquer forma de preconceito.",
+        "Não faça Ghosting.",
+        "Não faça RDM (matar sem motivo/certeza).",
+        "Não abuse de bugs.",
+        "Não use Hacks (banimento permanente).",
+        "Não use sprays indevidos.",
+        "Não faça revenge (se vingar de um jogador).",
+        "Não faça antijogo (fazer algo só para atrapalhar).",
+        "Não induza outros jogadores ao erro (antijogo).",
+        "Não atrapalhe a rodada ou mate o Detetive sem motivo.",
+        "Divirta-se!",
+        "Quaisquer dúvidas, pergunte a um Staff!"
+        ]
+    }
+}

@@ -1,0 +1,84 @@
+img {
+    width: 32px;
+    height: 32px;
+}
+
+img.plyavatar {
+    width: 64px;
+    height: 64px;
+}
+
+ul.highlights {
+    text-align: center; 
+}
+
+/* Since Gmod doesn't really support resolutions above full hd, we're not going to bother about them either */
+@media screen and (min-width : 1920px) {
+    .playerinfo {
+        margin-left: 60px;
+        margin-top: 55px;
+    }
+
+    .staffinfo {
+        margin-left: 70px;
+        margin-top: 50px;
+    }
+
+    .rules {
+        margin-left: 80px;
+    }
+}
+@media screen and (min-width : 1680px) {
+    .ttt {
+        font-size: 20px;
+    }
+
+    .staffinfo li {
+        margin: 0.4% 0;
+    }
+}
+/* This should take good care of pretty much every resolution between 1024 and 1680 and their height values as well */
+@media screen and (min-width : 1024px) {
+    .ttt {
+        font-size: 15px;
+    }
+
+    .staffinfo li {
+        margin: 0.2% 0;
+    }
+}
+/* This is really a pain in the ass to fix */
+@media screen and (min-width : 800px) {
+    #loadingbar {
+        top: 91%;
+    }
+
+    .playerinfo {
+        left: -2%;
+        top: 8.6%;
+    }
+
+    .staffinfo {
+        left: 30.8%;
+    }
+
+    .rules {
+        left: 63%;
+    }
+
+    .staffinfo li {
+        margin: 5px 0;
+    }
+
+    li {
+        font-size: 15px;
+    }
+
+    h3 {
+        padding: 15px 0;
+    }
+
+    .ttt {
+        font-size: 15px;
+    }
+}
