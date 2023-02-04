@@ -27,6 +27,21 @@ Ou seja, não serão enviadas correções ou adições a ela. Caso desejar agreg
   ```
  * quanto às seções de membros da Staff, destaques da temporada e regras do servidor, recomenda-se que respeite as quantidades utilizadas no exemplo. Ou seja, altere como quiser, mas não utilze mais itens do que o exemplo utiliza, pois poderá quebrar a página e poderá fazer com que a exibição fique comprometida em certas resoluções. Como citado acima, esta página não é totalmente otimizada, e foi descontinuada, então é natural que possua limitações.
 
+# Vantagens desta página de carregamento:
+* carregamento rápido
+* sistema de fundo da página de acordo com o mapa atual do servidor
+* capacidade de exibição de até 12 membros da Staff (ou algum outro tipo de destaque)
+* sistema alternativo para exibição de ranking de jogadores (três jogadores em destaque)
+* seção para listar várias regras, de forma organizada e bonita
+* design bonito, simplista e compacto
+
+# Desvantagens desta página de carregamento:
+* configurações manuais (necessário ao menos entender JSON)
+* alguns erros de alinhamento (sutis)
+* para ter a imagem do mapa exibido na página, é necessário tirar uma foto do mapa (recomendado usar uma tela com resolução 1920x1080)
+* alguns recursos e elementos podem ser incompatíveis com a versão base do Garry's Mod (é necessário utilizar a beta chromium x86-x64 para garantir a compatibilidade completa)
+* é feita em PHP
+
 # Abaixo, veja demonstrações das páginas de carregamento:
 
 Primeiro exemplo - sem os "destaques de temporada", somente uma descrição breve (pode ser do servidor ou do modo de jogo)
