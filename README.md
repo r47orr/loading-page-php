@@ -39,7 +39,7 @@ Ou seja, não serão enviadas correções ou adições a ela. Caso desejar agreg
 * configurações manuais (necessário ao menos entender JSON)
 * alguns erros de alinhamento (sutis)
 * para ter a imagem do mapa exibido na página, é necessário tirar uma foto do mapa (recomendado usar uma tela com resolução 1920x1080)
-* alguns recursos e elementos podem ser incompatíveis com a versão base do Garry's Mod (é necessário utilizar a beta chromium x86-x64 para garantir a compatibilidade completa)
+* alguns recursos e elementos podem ser incompatíveis com a versão base do Garry's Mod (é necessário utilizar a beta _x86-64 - Chromium + 64-bit binaries_ para garantir a compatibilidade completa)
 * é feita em PHP
 
 # Abaixo, veja demonstrações das páginas de carregamento:
