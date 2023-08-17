@@ -4,8 +4,6 @@ Página de carregamento do servidor do Garry's Mod TTT
 # Primeiro de tudo, vale ressaltar que esta página está sendo descontinuada a partir da data de sua publicação neste repositório. 
 Ou seja, não serão enviadas correções ou adições a ela. Caso desejar agregar ou corrigir algo, faça você mesmo. Seja em um fork e mantendo uma versão própria sua, ou enviando um PR, que será muito bem-vindo. Porém, não nos cobre em relação a criarmos algo específico, pois já estamos trabalhando em uma nova versão, feita do zero, utilizando outras tecnologias back end e front end, já que esta última é o maior defeito desta versão.
 
-# A versão oficial desta página é utilizada no servidor Backstabber Brasil: steam://connect/ip.fenixempire.net.br:27380
-
 # Esta página de carregamento possui alguns requisitos:
 * um servidor para hospedagem de conteúdo web (dinâmico) - GitHub pages e outros serviços gratuitos de hospedagem não suportam esta página, pois são feitos para rodar páginas estáticas (ou seja, sem suporte para rodar funcionalidades de back end).
 * recomenda-se utilizar a versão mais recente do PHP
@@ -32,7 +30,7 @@ Ou seja, não serão enviadas correções ou adições a ela. Caso desejar agreg
 # Vantagens desta página de carregamento:
 * carregamento rápido
 * sistema de fundo da página de acordo com o mapa atual do servidor
-* capacidade de exibição de até 12 membros da Staff (ou algum outro tipo de destaque)
+* capacidade de exibição de até 12 usuários Steam (membros da Staff ou qualquer outro destaque que queira fazer)
 * sistema alternativo para exibição de ranking de jogadores (três jogadores em destaque)
 * seção para listar várias regras, de forma organizada e bonita
 * design bonito, simplista e compacto
