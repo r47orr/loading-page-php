@@ -55,5 +55,3 @@ Primeiro exemplo - sem os "destaques de temporada", somente uma descrição brev
 
 Segundo exemplo - com os "destaques de temporada" (pode ser algo relacionado a um ranking de jogadores ou qualquer outro destaque que quiser fazer)
 ![](/examples/2.png)
-
-Caso queira utilizar deste projeto, sinta-se à vontade, desde que não "roube" os créditos de autoria.
